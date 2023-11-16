@@ -1,0 +1,6 @@
+exclude:
+  global:
+    - scmsnykfile/**
+version: v.1.25.0
+ignore: {}
+patch: {}
